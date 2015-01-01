@@ -11,7 +11,7 @@
 var MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
 var chat = document.getElementById('chat');
 var frequency = .3;
-var red, green, blue, luma, color;
+var red, green, blue, luminance, color;
 
 var observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
