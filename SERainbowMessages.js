@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SE Rainbow messages!
-// @namespace    http://www.easwee.net/
+// @namespace    http://upload.easwee.net/userscripts/SERainbowMessages.js
 // @version      0.1
 // @description  SE chat message background hue changer. Script is meant to be run in Tampermonkey or similar browser addon.
 // @author       easwee
